@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Workspace/ReadingXcelFile/lib/curvesapi-1.04.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Workspace/ReadingXcelFile/lib/poi-3.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Workspace/ReadingXcelFile/lib/poi-ooxml-3.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Workspace/ReadingXcelFile/lib/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Workspace/ReadingXcelFile/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Jars/poi-3.15/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Jars/poi-3.15/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Jars/poi-3.15/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Jars/poi-3.15/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Jars/poi-3.15/lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Workspace/ReadingXcelFile/lib/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Workspace/ReadingXcelFile/lib/httpcomponents-client-4.5.3/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Workspace/ReadingXcelFile/lib/httpcomponents-client-4.5.3/lib/httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-7-openjdk-amd64">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/rajat/Study/March 2017/RBS Hiring Challenge/Workspace/ReadingXcelFile/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
